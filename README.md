@@ -2,6 +2,6 @@
 
 Major Project
 
-Harshit Aggarwal
-Muskan Maheshwari
-Priyanshu Agarwal
+- Harshit Aggarwal
+- Muskan Maheshwari
+- Priyanshu Agarwal
